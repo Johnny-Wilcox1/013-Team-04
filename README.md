@@ -6,7 +6,10 @@ Oscar Carlek - osca3666
 Jacob Stiegler - jacob-stiegler
 
 Epic 1: Navigation bar
-  Story 1: Navigation bar with a responsive menu. Story points: 2
+  Story 1: Navigation bar with a responsive menu. Story points: 2 - Tyler
+  Story 2: Make the navigation bar look pretty. Story points: 2 - Johnny
+  Story 3: Have the navigation bar link to other sites. Story points: 1 - Oscar
+  Story 4: Set the navigation bar at the top of the site. Story points: 1 - Jacob
 
 Epic 2: Game
   Story 1: Start menu. Story points: 3 - Tyler
